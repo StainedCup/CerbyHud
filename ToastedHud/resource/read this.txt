@@ -1,0 +1,7 @@
+(to install)
+
+move to your custome folder in your tf2 directory
+
+right click your tf2 in steam and go to proporties, local files, browse local files
+
+click the 'tf' folder and move the hud folder into custome 
